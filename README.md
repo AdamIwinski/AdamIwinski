@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **iwinski.uk@gmail.com**
 
-- I'm currently working on my website https://adamiwinski.github.io/Babon/ <a href="https://adamiwinski.github.io/Babon/">My website</a>
+- I'm currently working on my website <a href="https://adamiwinski.github.io/Babon/" target="_blank">My website</a>
 
 
 <h3 align="left">Languages and Tools:</h3>

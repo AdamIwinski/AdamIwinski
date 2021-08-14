@@ -8,6 +8,8 @@
 - I'm currently working on <a href="https://adamiwinski.github.io/Babon/" target="_blank">My website.</a>
 
 
+<a href="https://www.digitalocean.com/?refcode=9e61a9a87f1f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

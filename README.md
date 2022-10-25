@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Iwinski</h1>
-<h3 align="center">A passionate frontend developer from UK.</h3>
+<h3 align="center">A passionate developer/programmer from UK.</h3>
 
 - 🌱 I’m currently learning **ROS**
 
